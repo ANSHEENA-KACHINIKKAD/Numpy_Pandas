@@ -34,7 +34,7 @@ Convert the DataFrame to a CSV file named `data.csv`. Then, read the `data.csv` 
 
 ## Files
 
-*   `numpy_pandas_exercises.ipynb`: Jupyter Notebook containing the solutions to the exercises.  (Or `numpy_pandas_exercises.py` if you prefer a Python script).
+*   `assignment_1.ipynb`: Jupyter Notebook containing the solutions to the exercises.
 *   `data.csv`: CSV file created and read in Exercise 7. (This will be created when you run the notebook/script).
 *   `README.md`: This file, providing a description of the exercises.
 
