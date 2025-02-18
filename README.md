@@ -35,14 +35,14 @@ Convert the DataFrame to a CSV file named `data.csv`. Then, read the `data.csv` 
 ## Files
 
 *   `assignment_1.ipynb`: Jupyter Notebook containing the solutions to the exercises.
-*   `data.csv`: CSV file created and read in Exercise 7. (This will be created when you run the notebook/script).
+*   `dataframe_1.csv`: CSV file created and read in Exercise 7. (This will be created when you run the notebook/script).
 *   `README.md`: This file, providing a description of the exercises.
 
 ## How to Run
 
-1.  Clone the repository: `git clone https://github.com/[your_username]/[repository_name].git`
-2.  Navigate to the directory: `cd [repository_name]`
+1.  Clone the repository: `git clone https://github.com/[ANSHEENA-KACHINIKKAD]/[Numpy_Pandas].git`
+2.  Navigate to the directory: `cd [Numpy_Pandas]`
 3.  Ensure you have the necessary libraries installed: `pip install numpy pandas`
-4.  Run the Jupyter Notebook: `jupyter notebook numpy_pandas_exercises.ipynb` 
+4.  Run the Jupyter Notebook: `jupyter notebook assignment_1.ipynb` 
 
 
